@@ -1,0 +1,25 @@
+{
+  "name": "travis-js-test-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node app.js",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipemarcel/travis-js-test-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipemarcel/travis-js-test-sample/issues"
+  },
+  "homepage": "https://github.com/felipemarcel/travis-js-test-sample#readme"
+}
